@@ -31,7 +31,7 @@
 <body>
     <div id="image-container">
         <!-- Replace 'TBD' with your image source -->
-        <img src="mitch.webp"Image" width="100" height="100">
+        <img src="https://i.guim.co.uk/img/media/26dccb523d147c0259427d2a85becd943a0ad323/0_0_5220_3480/master/5220.jpg?width=620&dpr=1&s=none"Image" width="100" height="100">
     </div>
     <div id="text-container">
         <h1>is mitch mcconnell alive?</h1>
